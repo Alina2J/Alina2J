@@ -37,7 +37,6 @@ I’m passionate about creating modern, user-friendly web applications and enjoy
 ---
 
 ### 📫 How to Reach Me
-- **Phone**: +7 923 531 2761
 - **Email**: lebedevaa319@gmail.com
 - **Telegram**: [@YourGodForever](https://t.me/YourGodForever)
 
